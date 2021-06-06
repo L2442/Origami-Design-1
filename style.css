@@ -6,12 +6,10 @@ ul{
 
 }
 *{
-    border: solid;
     background-color: lightblue;
 }
 
 .border{
-    border:solid;
     display: flex;
 }
 .grid{
@@ -21,6 +19,7 @@ ul{
 }
 .icon{
     align-content: right;
+    border: solid;
 }
 
 a{
