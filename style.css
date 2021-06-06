@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+}
+ul{
+    color: purple;
+
+}
+*{
+    border: solid;
+    background-color: lightblue;
+}
+
+.border{
+    border:solid;
+    display: flex;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.icon{
+    align-content: right;
+}
+
+a{
+    color: rgb(251, 107, 54);
+    font-family: 'Trebuchet MS';
+}
+
