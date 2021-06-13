@@ -1,12 +1,12 @@
 h1{
-    color: blue;
+    color: #F040A0;
 }
 ul{
     color: purple;
 
 }
 *{
-    background-color: lightblue;
+    background-color: #74cce7;
 }
 
 .border{
@@ -16,14 +16,25 @@ ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
 }
 .icon{
     align-content: right;
-    border: solid;
+    padding-bottom:30px;
+    margin-right:30px;
 }
 
 a{
-    color: rgb(251, 107, 54);
+    color: #0605B0;
     font-family: 'Trebuchet MS';
+}
+
+body{
+    margin-left:0px;
+    margin-bottom:0px; 
+}
+
+.header{
+    padding-left: 30px;
 }
 
