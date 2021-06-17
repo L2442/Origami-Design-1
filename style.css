@@ -3,7 +3,6 @@ h1{
 }
 ul{
     color: purple;
-
 }
 *{
     background-color: #74cce7;
@@ -22,6 +21,8 @@ ul{
     align-content: right;
     padding-bottom:30px;
     margin-right:30px;
+    border:solid;
+    border-radius: 25px;
 }
 
 a{
